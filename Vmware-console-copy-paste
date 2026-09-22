@@ -1,0 +1,1 @@
+javascript:navigator.clipboard.readText().then(t=>$('#container').data('wmksNwmks').sendInputString(t))
